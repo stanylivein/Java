@@ -15,7 +15,7 @@ public class OutputFormatting
             }
             System.out.println("================================");
             
-            sc.close();//closing scan
+            sc.close();//closing scanner
 
     }
 }
