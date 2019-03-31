@@ -1,4 +1,5 @@
 package sorting;
+//sorting package
 
 public class MergeSort 
 {
