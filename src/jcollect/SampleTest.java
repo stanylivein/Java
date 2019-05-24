@@ -19,7 +19,7 @@ public class SampleTest
 		
 		//System.out.printf("len is: %d\n",a.length);
 		ArrayOps ao=new ArrayOps();
-		b=ao.rotateClock(a);
+		b=ao.rotateCClock(a);
 		for(int i=0;i<n;i++)
 		{
 			for(int j=0;j<n;j++) 
